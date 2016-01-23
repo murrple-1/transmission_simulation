@@ -13,7 +13,7 @@ an experiment in bit-wise operations, which are required for such low-level
 code. Lastly, it is an experiment in system-independent portability.
 It is recommended you read the source code to see exactly what the code is
 doing.  
-Please visit my portfolio at http://people.scs.carleton.ca/~mchristo/
+Please visit my portfolio at http://murraychristopherson.com
 
 If you discover any bugs or unclear/inconsistent documentation, please contact me
 at murraychristopherson@gmail.com with a description of what happened, and I
