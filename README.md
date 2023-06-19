@@ -12,14 +12,14 @@ If you have the program 'make' installed on your computer, the executable is
 easily creatable by running 'make' on the containing directory.
 
 EXAMPLE:
-```
+```sh
 make
 ```
 To uninstall the file, the executable is easily removed with the 'make clean'
 command.
 
 EXAMPLE:
-```
+```sh
 make clean
 ```
 I recommend you open the 'makefile' for further macros to change (in particular,
